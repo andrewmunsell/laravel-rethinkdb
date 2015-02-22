@@ -16,7 +16,7 @@
         "illuminate/contracts": "5.0.*",
         "illuminate/database": "5.0.*",
         "illuminate/support": "5.0.*",
-        "danielmewes/php-rql": "dev-v2.0#22ce3b00e62945d459bf3efc45dcdcb6244893e1"
+        "danielmewes/php-rql": "2.0.*@dev"
     },
     "require-dev": {
         "psr/log": "1.0.0",
