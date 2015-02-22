@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ef1b080b3b86ae51ce7bf0dd27dfb4af",
+    "hash": "7514488e959166062fc3070835d1d293",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -89,16 +89,16 @@
         },
         {
             "name": "danielmewes/php-rql",
-            "version": "2.0.x-dev",
+            "version": "1.16.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/danielmewes/php-rql.git",
-                "reference": "22ce3b00e62945d459bf3efc45dcdcb6244893e1"
+                "reference": "b877023bda2c64d4aabd0c5facf0f6d6fb7f145a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/danielmewes/php-rql/zipball/22ce3b00e62945d459bf3efc45dcdcb6244893e1",
-                "reference": "22ce3b00e62945d459bf3efc45dcdcb6244893e1",
+                "url": "https://api.github.com/repos/danielmewes/php-rql/zipball/b877023bda2c64d4aabd0c5facf0f6d6fb7f145a",
+                "reference": "b877023bda2c64d4aabd0c5facf0f6d6fb7f145a",
                 "shasum": ""
             },
             "require": {
@@ -133,7 +133,7 @@
                 "reql",
                 "rethinkdb"
             ],
-            "time": "2015-01-05 21:36:51"
+            "time": "2015-02-07 01:10:34"
         },
         {
             "name": "danielstjules/stringy",
